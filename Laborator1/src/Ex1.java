@@ -1,8 +1,6 @@
 import static java.lang.Character.isLowerCase;
 import static java.lang.Character.isUpperCase;
-import static java.util.Collections.swap;
 
-//nu e sortare
 public class Ex1 {
     public static String CustomStringSorting(String str)
     {

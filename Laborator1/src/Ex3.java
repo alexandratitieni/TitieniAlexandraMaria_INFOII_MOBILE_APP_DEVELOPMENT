@@ -1,5 +1,4 @@
 public class Ex3 {
-    //converts hexadecimal(string) to decimal
     public static String NumericConverter(String hexNr) {
         int decimalNr = 0, p = 1;
         char c;

@@ -8,7 +8,6 @@ out/
 .kotlin
 
 ### Java / Maven / Gradle ###
-# Ignorăm fișierele compilate și pachetele build
 *.class
 *.log
 build/

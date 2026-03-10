@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/page_bg"
+    android:padding="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="cursive"
+                android:text="Chapter 5: Diagon Alley"
+                android:textAlignment="center"
+                android:textColor="#101010"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="4dp"
+                android:textAlignment="center"
+                android:text="Harry woke early the next morning. Although he could tell it was
+daylight, he kept his eyes shut tight.
+‘It was a dream,’ he told himself firmly. ‘I dreamed a giant called
+Hagrid came to tell me I was going to a school for wizards. When
+I open my eyes I’ll be at home in my cupboard.’
+There was suddenly a loud tapping noise.
+‘And there’s Aunt Petunia knocking on the door,’ Harry
+thought, his heart sinking. But he still didn’t open his eyes. It had
+been such a good dream.
+Tap. Tap. Tap.
+‘All right,’ Harry mumbled, ‘I’m getting up.’
+He sat up and Hagrid’s heavy coat fell off him. The hut was full
+of sunlight, the storm was over, Hagrid himself was asleep on the
+collapsed sofa and there was an owl rapping its claw on the
+window, a newspaper held in its beak.
+Harry scrambled to his feet, so happy he felt as though a large
+balloon was swelling inside him. He went straight to the window
+and jerked it open. The owl swooped in and dropped the newspaper on top of Hagrid, who didn’t wake up. The owl then
+fluttered on to the floor and began to attack Hagrid’s coat.
+‘Don’t do that.’
+Harry tried to wave the owl out of the way, but it snapped its
+beak fiercely at him and carried on savaging the coat.
+‘Hagrid!’ said Harry loudly. ‘There’s an owl –’
+‘Pay him,’ Hagrid grunted into the sofa.
+‘What?’
+‘He wants payin’ fer deliverin’ the paper. Look in the pockets.’
+Hagrid’s coat seemed to be made of nothing but pockets –
+bunches of keys, slug pellets, balls of string, mint humbugs, teabags … finally, Harry pulled out a handful of strange-looking coins. "
+                android:textColor="#202020"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

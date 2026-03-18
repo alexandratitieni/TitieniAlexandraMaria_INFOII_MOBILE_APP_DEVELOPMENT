@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+*.log
+/captures/
+
+app/build/
+/build/
+
+*.jks
+*.keystore
+google-services.json
